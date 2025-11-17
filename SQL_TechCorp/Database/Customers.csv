@@ -1,0 +1,6 @@
+"customer_id";"first_name";"last_name";"email";"phone";"address"
+1;"John";"Doe";"john.doe@example.com";"123-456-7890";"123 Elm Street"
+2;"Jane";"Smith";"jane.smith@example.com";"123-456-7891";"456 Oak Street"
+3;"Emily";"Johnson";"emily.johnson@example.com";"123-456-7892";"789 Pine Street"
+4;"Michael";"Brown";"michael.brown@example.com";"123-456-7893";"101 Maple Street"
+5;"Sarah";"Davis";"sarah.davis@example.com";"123-456-7894";"202 Birch Street"

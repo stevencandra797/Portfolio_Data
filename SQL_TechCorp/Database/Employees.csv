@@ -1,0 +1,6 @@
+"employee_id";"first_name";"last_name";"email";"phone";"hire_date";"department"
+1;"Alice";"Williams";"alice.williams@example.com";"123-456-7895";"2022-01-15";"Support"
+2;"Bob";"Miller";"bob.miller@example.com";"123-456-7896";"2022-02-20";"Sales"
+3;"Charlie";"Wilson";"charlie.wilson@example.com";"123-456-7897";"2022-03-25";"Development"
+4;"David";"Moore";"david.moore@example.com";"123-456-7898";"2022-04-30";"Support"
+5;"Eve";"Taylor";"eve.taylor@example.com";"123-456-7899";"2022-05-10";"Sales"
