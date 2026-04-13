@@ -1,0 +1,31 @@
+"order_id";"order_date";"product";"category";"quantity";"price"
+1001;"2025-01-02";"Wireless Mouse";"Electronics";2;150000
+1002;"2025-01-03";"T-Shirt";"Fashion";3;120000
+1003;"2025-01-05";"Coffee Maker";"Home Appliances";1;750000
+1004;"2025-01-07";"Notebook";"Stationery";5;20000
+1005;"2025-01-08";"Headphones";"Electronics";2;300000
+1006;"2025-01-10";"Sneakers";"Fashion";1;500000
+1007;"2025-01-12";"Desk Lamp";"Home Appliances";2;180000
+1008;"2025-01-15";"Backpack";"Fashion";2;250000
+1009;"2025-01-18";"Pen Set";"Stationery";4;30000
+1010;"2025-01-20";"Smartphone";"Electronics";1;3500000
+1011;"2025-02-02";"Wireless Mouse";"Electronics";3;150000
+1012;"2025-02-04";"T-Shirt";"Fashion";2;120000
+1013;"2025-02-06";"Coffee Maker";"Home Appliances";1;750000
+1014;"2025-02-08";"Notebook";"Stationery";6;20000
+1015;"2025-02-10";"Headphones";"Electronics";1;300000
+1016;"2025-02-12";"Sneakers";"Fashion";2;500000
+1017;"2025-02-15";"Desk Lamp";"Home Appliances";1;180000
+1018;"2025-02-18";"Backpack";"Fashion";3;250000
+1019;"2025-02-20";"Pen Set";"Stationery";5;30000
+1020;"2025-02-25";"Smartphone";"Electronics";2;3500000
+1021;"2025-03-01";"Wireless Mouse";"Electronics";2;150000
+1022;"2025-03-03";"T-Shirt";"Fashion";4;120000
+1023;"2025-03-05";"Coffee Maker";"Home Appliances";2;750000
+1024;"2025-03-07";"Notebook";"Stationery";3;20000
+1025;"2025-03-10";"Headphones";"Electronics";2;300000
+1026;"2025-03-12";"Sneakers";"Fashion";1;500000
+1027;"2025-03-15";"Desk Lamp";"Home Appliances";2;180000
+1028;"2025-03-18";"Backpack";"Fashion";1;250000
+1029;"2025-03-20";"Pen Set";"Stationery";6;30000
+1030;"2025-03-25";"Smartphone";"Electronics";1;3500000
