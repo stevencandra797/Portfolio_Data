@@ -1,0 +1,10 @@
+"customer_id";"gender";"age";"membership";"join_date";"city";"monthly_income"
+"C001";"Male";24;"Gold";"2023-02-12";"Jakarta";12000000.0
+"C002";"Female";29;"Silver";"2023-08-15";"Surabaya";8500000.0
+"C003";"Male";31;"Bronze";"2024-01-20";"Bandung";6500000.0
+"C004";"Female";22;"Gold";"2023-06-11";"Jakarta";14000000.0
+"C005";"Male";35;"Bronze";"2024-03-01";"Medan";5500000.0
+"C006";"Female";27;"Silver";"2023-11-09";"Semarang";7600000.0
+"C007";"Male";20;"Gold";"2024-02-22";"Bali";15000000.0
+"C008";"Female";33;"Silver";"2023-05-19";"Jakarta";9100000.0
+"C009";"Male";25;"Bronze";"2024-04-10";"Surabaya";4800000.0

@@ -1,0 +1,5 @@
+"payment_method";"fraud_cases";"total_orders";"fraud_rate"
+"Credit Card";1;2;50.0
+"Bank Transfer";1;2;50.0
+"E-Wallet";0;5;0.0
+"COD";0;1;0.0
