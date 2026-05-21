@@ -1,0 +1,4 @@
+"account_id";"customer_id";"branch_id";"account_type";"balance";"account_status";"open_date"
+"ACC00001";"CUST00001";"BR001";"Savings";15000000.0;"Active";"2023-01-15"
+"ACC00002";"CUST00002";"BR002";"Checking";85000000.0;"Active";"2022-11-20"
+"ACC00003";"CUST00003";"BR003";"Savings";7000000.0;"Active";"2024-03-10"

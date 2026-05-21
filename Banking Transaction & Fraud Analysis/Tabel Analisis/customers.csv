@@ -1,0 +1,4 @@
+"customer_id";"full_name";"gender";"age";"city";"occupation";"join_date";"membership_level";"annual_income"
+"CUST00001";"Budi Santoso";"Male";29;"Jakarta";"Employee";"2023-01-15";"Gold";120000000
+"CUST00002";"Siti Rahma";"Female";34;"Surabaya";"Business Owner";"2022-11-20";"Platinum";350000000
+"CUST00003";"Andi Wijaya";"Male";24;"Bandung";"Freelancer";"2024-03-10";"Silver";80000000

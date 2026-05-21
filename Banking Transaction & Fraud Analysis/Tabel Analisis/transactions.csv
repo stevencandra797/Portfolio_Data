@@ -1,0 +1,4 @@
+"transaction_id";"account_id";"transaction_date";"transaction_type";"amount";"merchant_category";"payment_method";"transaction_status";"device_type";"fraud_flag"
+"TRX00001";"ACC00001";"2025-01-10";"Transfer";2500000.0;"Shopping";"Mobile Banking";"Success";"Mobile";"No"
+"TRX00002";"ACC00002";"2025-01-11";"Payment";7500000.0;"Electronics";"Credit Card";"Success";"Desktop";"No"
+"TRX00003";"ACC00003";"2025-01-12";"Transfer";15000000.0;"Unknown";"E-Wallet";"Failed";"Mobile";"Yes"

@@ -1,0 +1,4 @@
+"customer_id";"full_name";"total_spending";"customer_segment"
+"CUST00001";"Budi Santoso";2500000.0;"Low Value"
+"CUST00002";"Siti Rahma";7500000.0;"Low Value"
+"CUST00003";"Andi Wijaya";15000000.0;"Low Value"

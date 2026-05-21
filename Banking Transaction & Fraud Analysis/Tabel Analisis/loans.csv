@@ -1,0 +1,4 @@
+"loan_id";"customer_id";"loan_type";"loan_amount";"interest_rate";"loan_status";"issue_date"
+"LN00001";"CUST00001";"Personal Loan";50000000.0;7.5;"Approved";"2024-08-01"
+"LN00002";"CUST00002";"Home Loan";350000000.0;5.5;"Approved";"2023-05-15"
+"LN00003";"CUST00003";"Vehicle Loan";120000000.0;8.2;"Default";"2024-02-10"
